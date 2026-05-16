@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f8fb;
+      color: #222;
+      margin: 0;
+      padding: 30px 15px;
+      line-height: 1.6;
+    }
+    .box {
+      max-width: 800px;
+      margin: auto;
+      background: #fff;
+      padding: 25px;
+      border-radius: 12px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+    }
+    h1, h2 {
+      color: #0b4f8a;
+    }
+    p {
+      margin-bottom: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>Privacy Policy</h1>
+    <p><b>Last updated:</b> 16 May 2026</p>
+
+    <p>This application is used to manage Instagram business messaging, webhook events, and automated replies for a connected Instagram professional account.</p>
+
+    <h2>Information We Collect</h2>
+    <p>We may collect Instagram account identifiers, message content, webhook event data, and basic account-related metadata required for the app to function.</p>
+
+    <h2>How We Use Information</h2>
+    <p>We use this information only to receive messages, send replies, store chat history, improve message handling, and operate Instagram messaging features connected to this app.</p>
+
+    <h2>Data Sharing</h2>
+    <p>We do not sell personal information. Data may be processed only as required to operate the messaging and automation features of this app.</p>
+
+    <h2>Data Retention</h2>
+    <p>Stored message data may be retained as needed for debugging, chat history, and service functionality, and may be deleted when no longer required.</p>
+
+    <h2>Data Deletion Requests</h2>
+    <p>If you want your data deleted, contact us using the contact information below and include your Instagram account details.</p>
+
+    <h2>Contact</h2>
+    <p>Email: funnekhan123@gmail.com</p>
+  </div>
+</body>
+</html>
